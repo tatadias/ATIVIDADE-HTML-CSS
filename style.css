@@ -1,0 +1,42 @@
+.card {
+    width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    display: inline-block;
+}
+
+.card img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px 5px 0 0;
+}
+
+.card h3 {
+    margin: 10px 0;
+    font-size: 20px;
+}
+
+.card p {
+    font-size: 16px;
+}
+
+.html-card {
+    background-color: #E44D26; /* Cor para HTML */
+    font-family: 'Arial', sans-serif; /* Fonte para HTML */
+    color: #fff; /* Cor do texto */
+}
+
+.css-card {
+    background-color: #2965F1; /* Cor para CSS */
+    font-family: 'Arial', sans-serif; /* Fonte para CSS */
+    color: #fff; /* Cor do texto */
+}
+
+.js-card {
+    background-color: #F0DB4F; /* Cor para JavaScript */
+    font-family: 'Arial', sans-serif; /* Fonte para JavaScript */
+    color: #333; /* Cor do texto */
+}
